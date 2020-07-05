@@ -1,5 +1,9 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+"""
+    pip install pycoingecko
+    
+"""
 
 from pycoingecko import CoinGeckoAPI
 
