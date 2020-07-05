@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
     pip install pycoingecko
-    
+    Powered by CoinGecko API
 """
 
 from pycoingecko import CoinGeckoAPI
